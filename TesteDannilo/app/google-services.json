@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "986270026173",
+    "firebase_url": "https://testedannilo-f25d4.firebaseio.com",
+    "project_id": "testedannilo-f25d4",
+    "storage_bucket": "testedannilo-f25d4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:986270026173:android:92776faaa472071d136ad4",
+        "android_client_info": {
+          "package_name": "com.example.testedannilo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "986270026173-b2mo1t9k5i06pfsgtja4blfvl5udpn3h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.testedannilo",
+            "certificate_hash": "568fa2357dbc4ccf4ee8d6433b0ab33aed4d45dc"
+          }
+        },
+        {
+          "client_id": "986270026173-tlt5logkejd3dgf2qp3kbnocqprdl9e1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCxi1wFerO3bXIhL23Xy0atlwwajslFMMs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "986270026173-tlt5logkejd3dgf2qp3kbnocqprdl9e1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
